@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Income",
+    "color": "#22c55e",
+    "keywords": ["SALARY", "PAYROLL", "DIRECT DEP", "PAYCHECK", "WAGES", "DIVIDEND", "INTEREST CREDIT", "NEFT CR", "IMPS CR", "CREDIT INTEREST", "REFUND", "CASHBACK", "REVERSAL"]
+  },
+  {
+    "category": "Housing",
+    "color": "#3b82f6",
+    "keywords": ["RENT", "MORTGAGE", "MAINTENANCE", "HOUSING", "SOCIETY", "HOA", "PROPERTY TAX", "HOME INS"]
+  },
+  {
+    "category": "Food & Dining",
+    "color": "#f97316",
+    "keywords": ["ZOMATO", "SWIGGY", "RESTAURANT", "CAFE", "EATERY", "FOOD", "BLINKIT", "BURGER", "PIZZA", "DHABA", "BIRYANI", "HOTEL DINING", "CANTEEN", "DOMINOS", "KFC", "MCDONALDS", "SUBWAY", "STARBUCKS"]
+  },
+  {
+    "category": "Groceries",
+    "color": "#eab308",
+    "keywords": ["BIGBASKET", "DMART", "RELIANCE FRESH", "SUPERMARKET", "GROCERY", "KIRANA", "ZEPTO", "DUNZO", "JIOMART", "NATURE BASKET", "INSTAMART", "VEGETABLES", "FRUITS"]
+  },
+  {
+    "category": "Transport",
+    "color": "#a855f7",
+    "keywords": ["UBER", "OLA", "RAPIDO", "PETROL", "FUEL", "METRO", "IRCTC", "BUS", "AUTO", "CAB", "TOLL", "PARKING", "RAILWAY", "AIRLINE", "INDIGO", "SPICEJET", "AIR INDIA", "VISTARA", "FASTTAG"]
+  },
+  {
+    "category": "Utilities",
+    "color": "#14b8a6",
+    "keywords": ["ELECTRICITY", "WATER BILL", "GAS BILL", "INTERNET", "BROADBAND", "MOBILE BILL", "AIRTEL", "VODAFONE", "JIOFIBER", "BSNL", "TATA SKY", "DTH", "RECHARGE"]
+  },
+  {
+    "category": "Shopping",
+    "color": "#ec4899",
+    "keywords": ["AMAZON", "FLIPKART", "MYNTRA", "MEESHO", "AJIO", "NYKAA", "SNAPDEAL", "SHOPCLUES", "H&M", "ZARA", "LIFESTYLE", "WESTSIDE", "PANTALOONS", "SHOPPERS STOP"]
+  },
+  {
+    "category": "Healthcare",
+    "color": "#ef4444",
+    "keywords": ["PHARMACY", "HOSPITAL", "DOCTOR", "MEDICAL", "CLINIC", "APOLLO", "MEDPLUS", "NETMEDS", "1MG", "DENTAL", "OPTOMETRIST", "PATHLAB", "DIAGNOSTIC"]
+  },
+  {
+    "category": "Entertainment",
+    "color": "#6366f1",
+    "keywords": ["NETFLIX", "SPOTIFY", "HOTSTAR", "AMAZON PRIME", "YOUTUBE PREMIUM", "SONY LIV", "ZEE5", "CINEMA", "MOVIE", "BOOKMYSHOW", "PVR", "INOX", "GAMING"]
+  },
+  {
+    "category": "Education",
+    "color": "#06b6d4",
+    "keywords": ["SCHOOL", "COLLEGE", "TUITION", "UDEMY", "COURSERA", "BYJU", "UNACADEMY", "COURSE", "BOOKS", "STATIONERY", "EDUCATION"]
+  },
+  {
+    "category": "Finance",
+    "color": "#6b7280",
+    "keywords": ["EMI", "LOAN", "INSURANCE", "BANK FEE", "ATM", "CASH WITHDRAWAL", "PREMIUM", "MUTUAL FUND", "SIP", "TRADING", "ZERODHA", "GROWW", "CREDIT CARD PAYMENT", "NEFT DR", "IMPS DR"]
+  },
+  {
+    "category": "Other",
+    "color": "#64748b",
+    "keywords": []
+  }
+]
